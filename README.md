@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leila
-- 👀 I’m interested in health, financial, artistic and education issues.
+- 👀 I’m interested in health, economics, artistic and education issues.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on projects about health and any funny apps.
 
